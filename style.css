@@ -8,7 +8,7 @@
 }
 
 .background {
-    background-image: url(/images/snorlax.jpg);
+    background-image: url(./images/snorlax.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -20,7 +20,7 @@
 }
 
 .gallery {
-    background-image: url(/gallery/DSCF6056_small.jpg);
+    background-image: url(./gallery/DSCF6056_small.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -28,7 +28,7 @@
 }
 
 .gallery2 {
-    background-image: url(/gallery/DSCF5275_small.jpg);
+    background-image: url(./gallery/DSCF5275_small.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
